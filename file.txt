@@ -1,0 +1,12 @@
+----------------------------------------
+Libro/i
+Titolo: denis
+Numero pagine: 45
+Autore: denis
+Editore: denis
+----------------------------------------
+Libro/i
+Titolo: Stefan
+Numero pagine: 13
+Autore: stefan
+Editore: stefan
